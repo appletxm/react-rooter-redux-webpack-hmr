@@ -1,0 +1,1 @@
+export const TEST_ASYNC_REDUX = 'TEST_ASYNC_REDUX';
